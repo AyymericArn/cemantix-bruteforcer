@@ -1,0 +1,1 @@
+just npm i, node force.js >> res.txt and ctrl f to find score: 1

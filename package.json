@@ -1,0 +1,16 @@
+{
+  "name": "cemantix-breaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "force.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AyymericArn",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "node-fetch": "^3.2.4"
+  }
+}
